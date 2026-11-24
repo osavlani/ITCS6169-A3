@@ -1,0 +1,9 @@
+torch==2.12.0.dev20260408+cu128
+torchvision==0.27.0.dev20260407+cu128
+open_clip_torch==4.2.2
+transformers==5.22.2
+sentencepiece==0.2.1
+protobuf==7.36.2
+numpy==1.26.4
+pillow==12.1.1
+matplotlib==3.9.2

@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 checkpoints/*
 !checkpoints/.gitkeep
+results/cache/
+!checkpoints/oneshot_final.pt
+results/
+support/
